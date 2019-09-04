@@ -1,0 +1,24 @@
+
+#nav_menu ul {
+    list-style-type: none;
+    padding: 1em 0;
+
+}
+
+#nav_menu ul li{
+    display: inline;
+
+}
+
+#index_solutions_List {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#index_solutions_List li {
+margin-bottom: 25px;
+}
+
+.solutions_List{
+    list-style-type: disc;
+}
