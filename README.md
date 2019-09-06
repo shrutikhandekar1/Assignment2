@@ -2,10 +2,10 @@
 This is the Website for Vecta Corporation website. 
 
 ## Pages included
-* [Home Page](#Home Page)
-* [About Us](#aboutus)
+* [Home Page](#home-page)
+* [About Us](#about-us)
 * [Solutions](#solutions)
-* [Contact Us](#contactus)
+* [Contact Us](#contact-us)
 
 ## Home Page
 The page introduces guests to what the company does.
