@@ -2,7 +2,7 @@
 This is the Website for Vecta Corporation website. 
 
 ## Pages included
-* [Home Page](#home)
+* [Home Page](#Home Page)
 * [About Us](#aboutus)
 * [Solutions](#solutions)
 * [Contact Us](#contactus)
